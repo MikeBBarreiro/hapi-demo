@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^7.5.2"
+    "good": "^4.0.0",
+    "good-console": "^2.0.1",
+    "hapi": "^7.5.2",
+    "joi": "^4.8.1",
+    "lout": "^5.1.2",
+    "mongoose": "^3.8.19"
   }
 }
